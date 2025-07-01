@@ -1,5 +1,7 @@
 # 🔗 LinkLytics – Intelligent URL Shortener with Analytics
 
+# Demo : https://youtu.be/IUjeTCqoigc?si=qhCQU2z7nujzAooK
+
 **LinkLytics** is a full-stack web application that allows users to create, manage, and analyze shortened URLs. Built with modern Java-based backend and React frontend, this platform is a scalable, secure, and analytics-driven solution inspired by services like Bitly and TinyURL.
 
 ---
